@@ -1,0 +1,6 @@
+Dlugopis BiC niebieski 1.5 00000000004 150
+Laptop ASUS czarny 2499.9 00000000005 10
+Koszula Wolczanka bialy 49.99 00000000006 100
+Smartfon Samsung srebrny 1999.9 00000000010 25
+Podrecznik Helion brazowy 34.49 00000000011 45
+Monitor LG czarny 1000 00000000012 30

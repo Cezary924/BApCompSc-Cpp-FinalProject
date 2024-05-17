@@ -1,0 +1,5 @@
+Adam Mickiewicz Sprzedawca 2000
+Maria Sklodowska-Curie Sprzedawca 2000
+Juliusz Slowacki Magazynier 2123.48
+Wislawa Szymborska Magazynier 2123.48
+Jan Kochanowski Kierownik 3000
